@@ -46,6 +46,3 @@ class Song:
             cls.artist_count[artist]+=1     
             
             
-thriller = Song("Thriller", "Michael Jackson", "Pop")       
-# print (thriller.artist)
-breakpoint()
